@@ -1,0 +1,216 @@
+< VAR ,  >
+< STRING ,  >
+< ID , 1 >
+< PYC ,  >
+< VAR ,  >
+< INT ,  >
+< ID , 2 >
+< PYC ,  >
+< VAR ,  >
+< BOOLEAN ,  >
+< ID , 3 >
+< PYC ,  >
+< FUNC ,  >
+< VOID ,  >
+< ID , 4 >
+< PARIZQ ,  >
+< STRING ,  >
+< ID , 5 >
+< COMA ,  >
+< INT ,  >
+< ID , 6 >
+< PARDER ,  >
+< LLAVIZQ ,  >
+< VAR ,  >
+< BOOLEAN ,  >
+< ID , 7 >
+< PYC ,  >
+< OUTPUT ,  >
+< ID , 8 >
+< PYC ,  >
+< OUTPUT ,  >
+< CAD , "Helloooooooooooooooooooooooooooooooooooooooooooooooooooooooo!!" >
+< PYC ,  >
+< ID , 6 >
+< IG ,  >
+< PARIZQ ,  >
+< ENT , 88 >
+< PARDER ,  >
+< PYC ,  >
+< OUTPUT ,  >
+< PARIZQ ,  >
+< ID , 5 >
+< PARDER ,  >
+< PYC ,  >
+< IF ,  >
+< PARIZQ ,  >
+< ID , 3 >
+< PARDER ,  >
+< RETURN ,  >
+< ID , 9 >
+< PYC ,  >
+< OUTPUT ,  >
+< ID , 6 >
+< PYC ,  >
+< OUTPUT ,  >
+< PARIZQ ,  >
+< PARIZQ ,  >
+< ENT , 4 >
+< DIV ,  >
+< PARIZQ ,  >
+< ID , 2 >
+< DIV ,  >
+< ENT , 00987 >
+< PARDER ,  >
+< PARDER ,  >
+< DIV ,  >
+< ENT , 33 >
+< PARDER ,  >
+< PYC ,  >
+< LLAVDER ,  >
+< ID , 9 >
+< IG ,  >
+< ENT , 3322 >
+< PYC ,  >
+< FUNC ,  >
+< INT ,  >
+< ID , 10 >
+< PARIZQ ,  >
+< INT ,  >
+< ID , 11 >
+< COMA ,  >
+< BOOLEAN ,  >
+< ID , 12 >
+< PARDER ,  >
+< LLAVIZQ ,  >
+< INPUT ,  >
+< ID , 9 >
+< PYC ,  >
+< VAR ,  >
+< BOOLEAN ,  >
+< ID , 13 >
+< PYC ,  >
+< ID , 2 >
+< IG ,  >
+< ENT , 32100 >
+< DIV ,  >
+< ID , 11 >
+< PYC ,  >
+< IF ,  >
+< PARIZQ ,  >
+< NEG ,  >
+< ID , 13 >
+< PARDER ,  >
+< RETURN ,  >
+< ENT , 654 >
+< PYC ,  >
+< RETURN ,  >
+< ID , 11 >
+< DIV ,  >
+< ID , 10 >
+< PARIZQ ,  >
+< ID , 11 >
+< DIV ,  >
+< ENT , 1 >
+< COMA ,  >
+< ID , 3 >
+< PARDER ,  >
+< PYC ,  >
+< LLAVDER ,  >
+< VAR ,  >
+< STRING ,  >
+< ID , 14 >
+< PYC ,  >
+< FUNC ,  >
+< STRING ,  >
+< ID , 15 >
+< PARIZQ ,  >
+< VOID ,  >
+< PARDER ,  >
+< LLAVIZQ ,  >
+< VAR ,  >
+< STRING ,  >
+< ID , 16 >
+< PYC ,  >
+< FOR ,  >
+< PARIZQ ,  >
+< VAR ,  >
+< INT ,  >
+< ID , 17 >
+< PYC ,  >
+< PARIZQ ,  >
+< PARIZQ ,  >
+< ID , 2 >
+< DIST ,  >
+< ENT , 91 >
+< PARDER ,  >
+< DIST ,  >
+< ID , 3 >
+< PARDER ,  >
+< PYC ,  >
+< ID , 17 >
+< ASIGDIV ,  >
+< ENT , 2 >
+< PARDER ,  >
+< LLAVIZQ ,  >
+< ID , 4 >
+< PARIZQ ,  >
+< CAD , "{$}" >
+< COMA ,  >
+< ID , 10 >
+< PARIZQ ,  >
+< ID , 2 >
+< COMA ,  >
+< ID , 3 >
+< PARDER ,  >
+< PARDER ,  >
+< PYC ,  >
+< VAR ,  >
+< STRING ,  >
+< ID , 18 >
+< PYC ,  >
+< ID , 18 >
+< IG ,  >
+< ID , 14 >
+< PYC ,  >
+< IF ,  >
+< PARIZQ ,  >
+< ID , 3 >
+< PARDER ,  >
+< RETURN ,  >
+< ID , 18 >
+< PYC ,  >
+< LLAVDER ,  >
+< ID , 1 >
+< IG ,  >
+< CAD , " " >
+< PYC ,  >
+< RETURN ,  >
+< ID , 1 >
+< PYC ,  >
+< ID , 18 >
+< IG ,  >
+< ID , 14 >
+< PYC ,  >
+< ID , 2 >
+< IG ,  >
+< ID , 10 >
+< PARIZQ ,  >
+< ENT , 5 >
+< COMA ,  >
+< ID , 3 >
+< PARDER ,  >
+< PYC ,  >
+< OUTPUT ,  >
+< ID , 4 >
+< PARIZQ ,  >
+< ID , 16 >
+< COMA ,  >
+< ID , 2 >
+< PARDER ,  >
+< PYC ,  >
+< RETURN ,  >
+< ID , 1 >
+< PYC ,  >
+< LLAVDER ,  >
+< EOF ,  >

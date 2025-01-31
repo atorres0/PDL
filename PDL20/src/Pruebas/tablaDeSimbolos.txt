@@ -1,0 +1,107 @@
+TABLA #0 :
+ * Lexema : 's'
+   Atributos :
+   + tipo : 'cadena'
+   + despl : 0
+---------------------------------
+ * Lexema : 'a'
+   Atributos :
+   + tipo : 'entero'
+   + despl : 64
+---------------------------------
+ * Lexema : 'bb'
+   Atributos :
+   + tipo : 'logico'
+   + despl : 68
+---------------------------------
+ * Lexema : 'put'
+   Atributos :
+   + tipo : 'funcion'
+     + numParam : '2'
+       + TipoParam1 : 'cadena'
+       + TipoParam2 : 'entero'
+       + TipoRetorno : 'void'
+     + EtiqFuncion : 'put'
+---------------------------------
+ * Lexema : 'pp'
+   Atributos :
+   + tipo : 'entero'
+   + despl : 69
+---------------------------------
+ * Lexema : 'kk'
+   Atributos :
+   + tipo : 'entero'
+   + despl : 73
+---------------------------------
+ * Lexema : 'RR'
+   Atributos :
+   + tipo : 'funcion'
+     + numParam : '2'
+       + TipoParam1 : 'entero'
+       + TipoParam2 : 'logico'
+       + TipoRetorno : 'entero'
+     + EtiqFuncion : 'RR'
+---------------------------------
+ * Lexema : 's_s'
+   Atributos :
+   + tipo : 'cadena'
+   + despl : 77
+---------------------------------
+ * Lexema : 'cadena'
+   Atributos :
+   + tipo : 'funcion'
+     + numParam : '0'
+       + TipoRetorno : 'cadena'
+     + EtiqFuncion : 'cadena'
+---------------------------------
+
+TABLA #1 (Variables locales y parametros de la funcion 'put'):
+ * Lexema : 's'
+   Atributos :
+   + tipo : 'cadena'
+   + despl : 0
+---------------------------------
+ * Lexema : 'RR'
+   Atributos :
+   + tipo : 'entero'
+   + despl : 64
+---------------------------------
+ * Lexema : 's_s1'
+   Atributos :
+   + tipo : 'logico'
+   + despl : 68
+---------------------------------
+
+TABLA #2 (Variables locales y parametros de la funcion 'RR'):
+ * Lexema : 'put'
+   Atributos :
+   + tipo : 'entero'
+   + despl : 0
+---------------------------------
+ * Lexema : 'b_'
+   Atributos :
+   + tipo : 'logico'
+   + despl : 4
+---------------------------------
+ * Lexema : 'log'
+   Atributos :
+   + tipo : 'logico'
+   + despl : 5
+---------------------------------
+
+TABLA #3 (Variables locales y parametros de la funcion 'cadena'):
+ * Lexema : 'kk1'
+   Atributos :
+   + tipo : 'cadena'
+   + despl : 0
+---------------------------------
+ * Lexema : 'i'
+   Atributos :
+   + tipo : 'entero'
+   + despl : 64
+---------------------------------
+ * Lexema : 'xx'
+   Atributos :
+   + tipo : 'cadena'
+   + despl : 68
+---------------------------------
